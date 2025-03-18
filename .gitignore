@@ -1,0 +1,10 @@
+.vscode/settings.json
+bin/App.class
+bin/Main.class
+bin/Poligono.class
+bin/Rettangolo.class
+src/Poligono.class
+src/Rettangolo.class
+src/Triangolo.class
+bin/Triangolo.class
+src/Main.class
